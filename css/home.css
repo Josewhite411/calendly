@@ -1,0 +1,127 @@
+.nav-calendly{
+	color: black;
+	font-size: small;
+	margin-left: 150px;
+
+}
+
+
+.nav-item {
+	margin-left: 40px;
+	color: black;
+}
+
+a {
+	color: black;
+    text-decoration: none;
+    background-color: transparent;
+    font-weight: 500;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+
+.bottom_form .enter {
+ /*    border: inherit;*/
+     padding: 0px 19px;
+     width: 50%;
+     height: 50px;
+     background: #fffffff2;
+     color: grey;
+     font-size: 17px;
+     font-weight: 300;
+     float: left;
+     margin-bottom: 20px;
+     border-radius: 50px;
+
+}
+
+.send_btn {
+
+     border-radius: 50px;
+
+     padding: 0px 19px;
+     width: 15%;
+     height: 50px;
+     background: #fffffff2;
+     color: grey;
+     font-size: 17px;
+     font-weight: 300;
+}
+
+
+
+
+.row1{
+	padding-top: 100px;
+
+}
+
+.row1 h2{
+	font-weight: 900;
+	font-size: xx-large;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+
+.row1 span{
+	color: #006BFF;
+}
+
+.row1 button{
+	background-color: black;
+	color: white;
+	font-size: small;
+	border-radius: 15px;
+	margin-top: 30px;
+}
+
+.row2{
+	padding-top: 100px;
+}
+
+.row2 h5{
+	color: grey;
+	font-size: small;
+	margin-top: 10px;
+}
+
+.row2 h3{
+	font-weight: bold;
+	margin-top: 20px;
+}
+
+.row2 p{
+	margin-top: 20px;
+
+}
+
+.row3{
+	padding-top: 70px;
+}
+
+.row4{
+	padding-top: 50px;
+}
+
+.row4 h4{
+	font-weight: bolder;
+}
+
+.row4 span{
+	color: #006BFF;
+}
+
+.row4 button{
+	color: black;
+	background-color: white;
+	width: 180px;
+	padding-left: 5px;
+}
+
+.row4 p{
+	font-size: small;
+	color: darkgrey;
+	padding-bottom: 5px;
+}
